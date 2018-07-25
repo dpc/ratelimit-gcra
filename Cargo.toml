@@ -1,0 +1,9 @@
+[package]
+name = "ratelimit-gcra"
+version = "0.1.0"
+authors = ["Dawid Ciężarkiewicz <dpc@dpc.pw>"]
+
+[dependencies]
+time = "0.1"
+log = "0.4"
+failure = "0.1"
